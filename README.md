@@ -1,6 +1,6 @@
 # Hi, I am Khalil Hamdy 👋
 
-![2](https://user-images.githubusercontent.com/80888514/178122680-9d77baa2-3d7d-45cd-8668-e9849f4c0224.jpg)
+
 
 
 <!--

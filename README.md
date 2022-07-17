@@ -11,7 +11,7 @@
 - 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.
 -->
 
-<details!>Some interesting facts about me
+<details>Some interesting facts about me!
 
 </details>
 

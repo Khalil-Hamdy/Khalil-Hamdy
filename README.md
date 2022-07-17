@@ -21,7 +21,6 @@
     - Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
   
     - Learning programming and getting knowledge about AI & ML.
-  </br>
 
 </details>
 

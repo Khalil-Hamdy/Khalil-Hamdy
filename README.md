@@ -6,6 +6,14 @@
 
 
 - 🔭 I’m currently am still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
+- 🌱 I’m currently learning and Developing Mobile Application.
+- 💬 Ask me about: Firebase, OOP, Java, Kotlin,c,c++,python, XML, Android, Web'basics', Mobile, RESTful APIs, Database, UI, UX, Version Control, Team Management.
+- 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.
+
+==>
+<details>
+  <sumary>Some interesting facts about me!</sumary>  
+ </details>
 
 <!--
 **Khalil-Hamdy/Khalil-Hamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +21,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently am still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and Developing Mobile Application with Firebase.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about: Firebase, OOP, Java, Kotlin, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
+- 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

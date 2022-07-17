@@ -13,7 +13,7 @@
 
 <details> 
   <summary>Some interesting facts about me!</summary>
-  <br>
+
     - In mean time, I solve problems.
   
     - While Coding, Listening Music and developing useful code.

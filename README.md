@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently am still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
+- 🔭 I’m still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
 - 🌱 I’m currently learning and Developing Mobile Application.
 - 💬 Ask me about: Firebase, OOP, Java, Kotlin,c,c++,python, XML, Android, Web'basics', Mobile, RESTful APIs, Database, UI, UX, Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.

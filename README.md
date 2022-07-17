@@ -14,14 +14,14 @@
 <details> 
   <summary>Some interesting facts about me!</summary>
   <br>
-    -In mean time, I solve problems.
-
-    -While Coding, Listening Music and developing useful code. star
-
-    -Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
-
-    -Learning programming and getting knowledge about AI & ML.
+    - In mean time, I solve problems.
   
+    - While Coding, Listening Music and developing useful code.
+  
+    - Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
+  
+    - Learning programming and getting knowledge about AI & ML.
+  </br>
 
 </details>
 

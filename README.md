@@ -2,14 +2,14 @@
 
 ## Certified Android Developer, good ability to transcribe any UI on android, good command of modern tools/technologies in android development, meticulous, respects the rules of good development. I have no problem working in a team, and I like to go ahead, innovate, propose ideas to advance a project.
 
-
+- 🔭 I’m currently am still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
 
 <!--
 **Khalil-Hamdy/Khalil-Hamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently am still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning and Developing Mobile Application.
 - 💬 Ask me about: Firebase, OOP, Java, Kotlin,c,c++,python, XML, Android, Web'basics', Mobile, RESTful APIs, Database, UI, UX, Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.
+-->
 
-==>
-<Some interesting facts about me!>
+<details!>Some interesting facts about me
 
- </details>
+</details>
 
 <!--
 **Khalil-Hamdy/Khalil-Hamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

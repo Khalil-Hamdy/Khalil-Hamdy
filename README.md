@@ -1,12 +1,10 @@
 # Hi, I am Khalil Hamdy 👋
 
 
-## Certified Android Developer, good ability to transcribe any UI on android, good command of modern tools/technologies in android development, meticulous, respects the rules of good development. I have no problem working in a team, and I like to go ahead, innovate, propose ideas to advance a project.
+## An Android software engineer with over 3 years of experience, specializing in building robust, high-quality mobile applications. Possesses strong expertise in core computer science principles, SOLID design principles, clean code practices, and efficient data structures and algorithms. Skilled in agile methodologies, object-oriented programming (OOP), and functional programming, with proficiency in Kotlin and Java. Highly experienced with Git for version control, adept at implementing design patterns, and committed to code quality through unit testing and test-driven development (TDD). Familiar with Continuous Integration and Continuous Deployment (CI/CD) workflows, consistently striving for excellence in every aspect of Android development.
 
 
 
-- 🔭 I’m still studying at [AAST](https://aast.edu/ar/) In the field of computer science.
-- 🌱 I’m currently learning and Developing Mobile Application.
 - 💬 Ask me about: Firebase, OOP, Java, Kotlin,c,c++,python, XML, Android, Web'basics', Mobile, RESTful APIs, Database, UI, UX, Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below point_down in addition to follow me here.
 -->
